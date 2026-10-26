@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913162045375",
+    "project_id": "movie-review-system-9b29c",
+    "storage_bucket": "movie-review-system-9b29c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913162045375:android:5a45fec95ec18016b6c30a",
+        "android_client_info": {
+          "package_name": "com.example.movie_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvso5NBw22T7NkYpyLGsAC9WQvig2ybfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
